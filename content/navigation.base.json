@@ -1,0 +1,16 @@
+[
+  {
+    "url": "/",
+    "title": "Home",
+    "children": [
+      {
+        "url": "/admin",
+        "title": "Admin Pages"
+      },
+      {
+        "url": "/dashboard",
+        "title": "Dashboard"
+      }
+    ]
+  }
+]

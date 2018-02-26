@@ -1,0 +1,12 @@
+{
+  "_extends": "navigation.base.json#/0/children/-",
+  "_data": {
+    "url": "/project-b",
+    "title": "Project B documentation",
+    "children": [
+      { "url": "item-1", "title": "Project B Item 1" },
+      { "url": "item-2", "title": "Project B Item 2" },
+      { "url": "item-3", "title": "Project B Item 3" }
+    ]
+  }
+}

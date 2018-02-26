@@ -1,0 +1,16 @@
+{
+  "name": "json-merge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pete Bacon Darwin <pete@bacondarwin.com>",
+  "license": "MIT",
+  "scripts": {
+    "predocs": "rm -rf build",
+    "docs": "dgeni ./config/main-package.js"
+  },
+  "devDependencies": {
+    "dgeni": "^0.4.9",
+    "dgeni-packages": "^0.24.3",
+    "json-pointer": "^0.6.0"
+  }
+}
